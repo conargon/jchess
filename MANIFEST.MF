@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: conar
+Build-Jdk: 1.8.0_25
+Main-Class: com.conargon.jchess.Jchess
+Class-Path: lib/swt.jar
